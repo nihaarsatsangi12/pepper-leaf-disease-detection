@@ -2,9 +2,7 @@
 
 A convolutional neural network that looks at a photo of a bell pepper leaf and predicts whether it is **healthy** or has **bacterial spot**, with a small web app to try it.
 
-**Live demo:** ADD-YOUR-STREAMLIT-LINK-HERE
-
-![App screenshot](screenshot.png)
+**Live demo:** https://pepper-leaf-disease-detection-py.streamlit.app
 
 ## What it does
 
